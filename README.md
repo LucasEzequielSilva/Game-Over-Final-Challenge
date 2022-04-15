@@ -1,5 +1,6 @@
 #Game Over Shop 🎮
 
+
 GAME OVER SHOP es el proyecto final en equipo del bootcamp MindHub, basada bajo el concepto de Tienda de Videojuegos.La misma está estetica y funcionalmente enfocada en la experiencia de usuario, pensada tanto en un publico juvenil como adulto y responde a las necesidades del usuario.
 
 ##Construido con 🛠️
