@@ -16,14 +16,13 @@ Redux - Librería para manejo del estado
 
 <h1>Autores ✒️</h1>
 
-Karen Arguello (LIDER)
-Lucas Silva
-Thiago Chiesa
-Luis Ditieri
-Wyse
-Bladimir Rojas
-Franco Garay
-Juliana Simonetta
+1. Karen Arguello (LIDER)
+2. Lucas Silva
+3. Thiago Chiesa
+4. Luis Ditieri
+5. Bladimir Rojas
+6. Franco Garay
+7. Juliana Simonetta
 
 <h1>Enlace a página hosteada</h1>
 
